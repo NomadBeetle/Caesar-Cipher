@@ -12,7 +12,9 @@ A simple Python program to encrypt and decrypt messages using the **Caesar Ciphe
 
 ## Usage
 1. Run the script:
+   ```sh
    python caesar_cipher.py
+   ```
 2. Follow the prompts to **encode** or **decode** a message.
 3. Enter `"yes"` to go again or `"no"` to exit.
 
